@@ -1,4 +1,4 @@
-# Nbdime Installation and Configuration Guide ( Jupyter file version )
+# Nbdime Installation and Configuration Guide ( Jupyter version control tool )
 
 This guide will walk you through the process of installing and configuring Nbdime, a tool for diffing and merging Jupyter notebooks.
 
