@@ -25,3 +25,6 @@ After installing Nbdime, you need to configure it to work with your version cont
   ` nbdime config-git --enable --global `
   
 
+# Week 2 Commit:
+
+# We have to start our project soon. 
