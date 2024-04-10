@@ -1,3 +1,17 @@
+# Required Libraries / Dependencies
+
+  - mathplotlib
+  - seaborn
+  - sklearn (scikit-learn)
+  - pandas
+  - autogluon
+  - numpy
+  - statistics
+  - jupyter
+
+# Project Sysnopsis
+To predict the best season to release a movie
+
 # Nbdime Installation and Configuration Guide ( Jupyter version control tool )
 
 This guide will walk you through the process of installing and configuring Nbdime, a tool for diffing and merging Jupyter notebooks.
@@ -12,7 +26,6 @@ This guide will walk you through the process of installing and configuring Nbdim
 Open your terminal or command prompt and run the following command to install Nbdime:
 
   ` pip install nbdime `
-
 
 ## Step 2: Configure Nbdime
 
